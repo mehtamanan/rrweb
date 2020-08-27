@@ -1,5 +1,5 @@
 {
-  "name": "rrweb",
+  "name": "@dashboarding/rrweb",
   "version": "0.8.4",
   "description": "record and replay the web",
   "scripts": {
